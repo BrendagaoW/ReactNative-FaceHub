@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeWorkshop_FaceHub'
+
+include ':app'
